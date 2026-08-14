@@ -5,3 +5,11 @@
 - 👯 Tenho 17 anos
 - 😄 Pronouns: Ela/Dela
 
+## Atualmente aprendendo
+
+- CSS-HTML
+- JavaScript
+-  GitHub
+
+
+
