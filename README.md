@@ -1,4 +1,4 @@
-## Oii, seja bem vindo ao meu perfil!!
+## Oii, seja bem vindo ao meu perfil!! ##
 
 - 🔭 Estudo em tempo integral
 - 🌱 Moro em Lages-SC
