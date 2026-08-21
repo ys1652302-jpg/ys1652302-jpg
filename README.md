@@ -14,7 +14,8 @@
 
 
 <p align="center">
-  <img width="500" height="472" alt="424aadc57b3b3741d5ee8388c8045be7 gifpenis" src="https://github.com/user-attachments/assets/06cb3877-66c3-4329-8be9-f5a42005aa59" />
+  <img width="999" height="300" alt="download gifcu" src="https://github.com/user-attachments/assets/3057a8f8-c20e-4cfe-b4dc-3d8362548314" />
+" />
 </p>
 
 <p align="center">
