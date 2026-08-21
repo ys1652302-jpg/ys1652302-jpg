@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=SEU%20NOME&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img width="500" height="472" alt="424aadc57b3b3741d5ee8388c8045be7 gifpenis" src="https://github.com/user-attachments/assets/06cb3877-66c3-4329-8be9-f5a42005aa59" />
 </p>
 
 <p align="center">
