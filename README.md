@@ -1,43 +1,25 @@
-## Oii, seja bem vindo ao meu perfil!! ##
 
+<p align="center">
+  <img width="999" height="300" alt="download gifcu" src="https://github.com/user-attachments/assets/3057a8f8-c20e-4cfe-b4dc-3d8362548314" 
+</p>
+
+## oii, seja bem vindo ao meu perfil!! ##
 - 🔭 Estudo em tempo integral
 - 🌱 Moro em Lages-SC
 - 👯 Tenho 17 anos
 - 😄 Pronouns: Ela/Dela
 
-## Atualmente aprendendo
+## atualmente aprendendo
 
 - CSS-HTML
 - JavaScript
 -  GitHub
 
 
+## linguagens que ja estudei/estudo
 
 <p align="center">
-  <img width="999" height="300" alt="download gifcu" src="https://github.com/user-attachments/assets/3057a8f8-c20e-4cfe-b4dc-3d8362548314" />
-" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=for-the-badge&logo=github">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=blue" />
-</p>
-
-## 🚀 Sobre mim
-
-💻 Desenvolvedor focado em criar projetos incríveis  
-🌱 Atualmente estudando novas tecnologias  
-🎯 Buscando evoluir constantemente  
-⚡ Curiosidade: coloque alguma coisa interessante sobre você
-
----
-
-## 🛠️ Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode," />
 </p>
 
 ---
