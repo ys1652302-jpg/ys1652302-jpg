@@ -30,9 +30,7 @@
 
 <p>
   <a href="https://instagram.com/yasmin_fgc">
-    <img src="https://img.shields.io/badge/Instagram-#800080
-
-?style=for-the-badge&logo=instagram&logoColor=purpel"/>
+    <img src="https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=instagram&logoColor=purpel"/>
   </a>
 
   <a href="https://linkedin.com/in/yasmin fogaça da silva">
