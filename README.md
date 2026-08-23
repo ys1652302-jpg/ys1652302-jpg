@@ -45,7 +45,7 @@
 ---
 
 <p align="center">
-  <img width="999" height="400"src="https://i.pinimg.com/originals/e0/96/a0/e096a00fb0a55cf0f8bc0ef69db0b59b.gif" />
+  <img width="900" height="400"src="https://i.pinimg.com/originals/8d/49/e2/8d49e2ee74decf88d5e5d9819240037c.gif" />
 </p>
 
 <a href="https://github.com/vivika-mads">
