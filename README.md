@@ -38,7 +38,7 @@
   </a>
 
   <a href="https://mailto:ys2261118@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-800080?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -48,6 +48,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=100&section=footer" />
 </p>
 
+<a href="https://github.com/vivika-mads">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=800080&center=true&vCenter=true&width=700&lines=%3E+TCHAU+GUYS+;%3E+ACABOU+AQUI...;%3E+I+AM+MIKAGUEI+..." alt="Typing SVG" />
+</a>
 
 
 
