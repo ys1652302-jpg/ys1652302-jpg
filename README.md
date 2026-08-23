@@ -3,19 +3,19 @@
   <img width="999" height="300" alt="download gifcu" src="https://github.com/user-attachments/assets/3057a8f8-c20e-4cfe-b4dc-3d8362548314" 
 </p>
 
-## oii, seja bem vindo ao meu perfil!! ##
+## 👾ᴏɪɪ, sᴇᴊᴀ ʙᴇᴍ ᴠɪɴᴅᴏ ᴀᴏ ᴍᴇᴜ ᴘᴇʀғɪʟ!!👾 ##
 - 🔭 Estudo em tempo integral
 - 🌱 Moro em Lages-SC
 - 👯 Tenho 17 anos
 
-## atualmente aprendendo
+## 🎆ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ ᴀᴘʀᴇɴᴅᴇɴᴅᴏ🎆
 
 - CSS-HTML
 - JavaScript
 -  GitHub
 
 
-## linguagens que ja estudei/estudo
+## 💀ʟɪɴɢᴜᴀɢᴇɴs ǫᴜᴇ ᴊᴀ ᴇsᴛᴜᴅᴇɪ/ᴇsᴛᴜᴅᴏ💀
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,github,vscode," />
@@ -25,7 +25,7 @@
 
 
 
-##  onde me encontrar
+##  🟪ᴏɴᴅᴇ ᴍᴇ ᴇɴᴄᴏɴᴛʀᴀʀ🟪
 
 
 <p>
@@ -37,9 +37,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-FFF0F5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://mailto:ys2261118@gmail.com">
-    <img src="https://img.shields.io/badge/Email-800080?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Email-800080?style=for-the-badge&logo=gmail&logoColor=white" align="center"/>
+  <font color="#800080"><b>ys2261118&#8203;@gmail.com</b></font>
 </p>
 
 ---
