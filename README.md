@@ -1,21 +1,20 @@
 
 <p align="center">
-  <img width="999" height="300" alt="download gifcu" src="https://github.com/user-attachments/assets/3057a8f8-c20e-4cfe-b4dc-3d8362548314" 
+  <img width="999" height="300" alt="[download gifcu" src="https://i.pinimg.com/736x/c9/a2/ba/c9a2bae6cbcdf23ede20486290162989.jpg" 
 </p>
 
 ## 👾ᴏɪɪ, sᴇᴊᴀ ʙᴇᴍ ᴠɪɴᴅᴏ ᴀᴏ ᴍᴇᴜ ᴘᴇʀғɪʟ!!👾 ##
-- 🔭 Estudo em tempo integral
-- 🌱 Moro em Lages-SC
-- 👯 Tenho 17 anos
+-  Estudo em tempo integral
+-  Moro em Lages-SC
+-  Tenho 17 anos
 
-## 🎆ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ ᴀᴘʀᴇɴᴅᴇɴᴅᴏ🎆
-
+## 👾ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ ᴀᴘʀᴇɴᴅᴇɴᴅᴏ👾
 - CSS-HTML
 - JavaScript
 -  GitHub
 
 
-## 💀ʟɪɴɢᴜᴀɢᴇɴs ǫᴜᴇ ᴊᴀ ᴇsᴛᴜᴅᴇɪ/ᴇsᴛᴜᴅᴏ💀
+## 👾ʟɪɴɢᴜᴀɢᴇɴs ǫᴜᴇ ᴊᴀ ᴇsᴛᴜᴅᴇɪ/ᴇsᴛᴜᴅᴏ👾
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,github,vscode," />
@@ -25,7 +24,7 @@
 
 
 
-##  🟪ᴏɴᴅᴇ ᴍᴇ ᴇɴᴄᴏɴᴛʀᴀʀ🟪
+##  👾ᴏɴᴅᴇ ᴍᴇ ᴇɴᴄᴏɴᴛʀᴀʀ👾
 
 
 <p>
@@ -45,7 +44,7 @@
 ---
 
 <p align="center">
-  <img width="900" height="400"src="https://i.pinimg.com/originals/8d/49/e2/8d49e2ee74decf88d5e5d9819240037c.gif" />
+  <img width="999" height="300" alt="download gifcu" src="https://github.com/user-attachments/assets/3057a8f8-c20e-4cfe-b4dc-3d8362548314" />
 </p>
 
 <a href="https://github.com/vivika-mads">
