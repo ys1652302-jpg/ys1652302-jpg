@@ -45,7 +45,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=100&section=footer" />
+  <img width="999" height="400"src="https://i.pinimg.com/originals/e0/96/a0/e096a00fb0a55cf0f8bc0ef69db0b59b.gif" />
 </p>
 
 <a href="https://github.com/vivika-mads">
