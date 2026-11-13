@@ -4,14 +4,14 @@
 </p>
 
 ## 👾ᴏɪɪ, sᴇᴊᴀ ʙᴇᴍ ᴠɪɴᴅᴏ ᴀᴏ ᴍᴇᴜ ᴘᴇʀғɪʟ!!👾 ##
--  Estudo em tempo integral
+-  Estudo no CEDUP-Renato Ramos da Silva 
 -  Moro em Lages-SC
 -  Tenho 17 anos
 
 ## 👾ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ ᴀᴘʀᴇɴᴅᴇɴᴅᴏ👾
 - CSS-HTML
 - JavaScript
--  GitHub
+- GitHub
 
 
 ## 👾ʟɪɴɢᴜᴀɢᴇɴs ǫᴜᴇ ᴊᴀ ᴇsᴛᴜᴅᴇɪ/ᴇsᴛᴜᴅᴏ👾
@@ -38,7 +38,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Email-800080?style=for-the-badge&logo=gmail&logoColor=white" align="center"/>
-  <font color="#800080"><b>ys2261118&#8203;@gmail.com</b></font>
+  <font color="#800080"><b>yasmiin.fogaca&#8203;@gmail.com</b></font>
 </p>
 
 ---
